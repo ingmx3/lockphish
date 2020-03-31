@@ -4,8 +4,7 @@ Lockphish it's the first tool (05/13/2020) for phishing attacks on the lock scre
 
 ## Author: https://github.com/thelinuxchoice/lockphish
 ## Twitter: https://twitter.com/linux_choice
-++++modificado por mx3+++
-https://github.com/ingmx3/lockphish
+## modificado por mx3 https://github.com/ingmx3/lockphish
 
 ![lp](https://user-images.githubusercontent.com/34893261/74437970-e5025000-4e47-11ea-9291-d83afd3fe008.png)
 
@@ -34,7 +33,7 @@ https://www.paypal.me/MarcoFarfan
 
 
 
-REGISTRO DE CAMBIOS (CHANGE LOGS)
+## REGISTRO DE CAMBIOS (CHANGE LOGS)
 ya que la url por default redirecciona a youtube, para hacer esto mas creible se cabio el texto simple por el icono de youtube
 
 
