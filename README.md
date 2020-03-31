@@ -27,7 +27,6 @@ bash lockphish.sh
 ```
 
 ### Donate a coffee!
-Support the authors:
 #### Paypal:
 https://www.paypal.me/MarcoFarfan
 
